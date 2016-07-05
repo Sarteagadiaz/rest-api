@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Sarteagadiaz/rest-api#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "body-parser" : "^1.15.2"
+    "body-parser" : "^1.15.2",
+    "mysql" : "^2.11.1"
   }
 }
