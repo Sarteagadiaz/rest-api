@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarteagadiaz/rest-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarteagadiaz/rest-api/issues"
+  },
+  "homepage": "https://github.com/Sarteagadiaz/rest-api#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser" : "^1.15.2"
+  }
+}
